@@ -1,0 +1,13 @@
+{
+  "name": "dev",
+  "values": [
+    {
+      "key": "base_url",
+      "value": "https://reqres.in/api"
+    },
+    {
+      "key": "api_key",
+      "value": "reqres_3ed97aa4cb5e432ab12dc9c4fef442d2"
+    }
+  ]
+}
