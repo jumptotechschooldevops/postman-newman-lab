@@ -1,4 +1,4 @@
-# postman-newman-lab
+
 lab: WHY DevOps Engineers Use Postman + Newman
 Postman (Manual + Design Phase)
 Used by DevOps to:
